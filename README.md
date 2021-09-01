@@ -1,2 +1,2 @@
-# PG-Router
-Application for finding nearby PG's using Android Studio
+# PGRouter
+An android application used for finding PG's near our College.
